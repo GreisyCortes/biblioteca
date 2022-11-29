@@ -1,2 +1,0 @@
-# biblioteca
-Udemy Proyect Django
